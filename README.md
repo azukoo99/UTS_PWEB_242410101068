@@ -18,5 +18,3 @@ FISHMART adalah aplikasi web sederhana berbasis Laravel yang digunakan untuk men
 ### 📦 Pengelolaan Produk
 ![Pengelolaan](screenshots/pengelolaan.png)
 
-```bash
-php artisan serve
